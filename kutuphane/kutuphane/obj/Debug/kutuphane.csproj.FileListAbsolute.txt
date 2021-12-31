@@ -1,0 +1,12 @@
+D:\Belgeler\Visual Studio 2019\Projects\kutuphane\kutuphane\bin\Debug\kutuphane.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\kutuphane\kutuphane\bin\Debug\kutuphane.exe
+D:\Belgeler\Visual Studio 2019\Projects\kutuphane\kutuphane\bin\Debug\kutuphane.pdb
+D:\Belgeler\Visual Studio 2019\Projects\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\kutuphane\kutuphane\obj\Debug\kutuphane.kitapgirisFrm.resources
+D:\Belgeler\Visual Studio 2019\Projects\kutuphane\kutuphane\obj\Debug\kutuphane.kutuphaneFrm.resources
+D:\Belgeler\Visual Studio 2019\Projects\kutuphane\kutuphane\obj\Debug\kutuphane.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\kutuphane\kutuphane\obj\Debug\kutuphane.exe
+D:\Belgeler\Visual Studio 2019\Projects\kutuphane\kutuphane\obj\Debug\kutuphane.pdb
+D:\Belgeler\Visual Studio 2019\Projects\kutuphane\kutuphane\obj\Debug\kutuphane.okurgirisFrm.resources
